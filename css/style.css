@@ -1,0 +1,32 @@
+.bannerHome {
+    background-color: #c82124;
+}
+
+.mainspace {
+    max-width: 1100px;
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+}
+
+.padtop50 {
+    padding-top: 50px !important;
+}
+
+.padtop100 {
+    padding-top: 100px !important;
+}
+main {
+    height: 100%;
+}
+
+footer {
+    background-color: #c82124;
+    width: 100%;
+    min-height: 200px;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #000;
+}
